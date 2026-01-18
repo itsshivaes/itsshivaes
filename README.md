@@ -11,8 +11,12 @@ Aspiring frontend developer passionate about creating beautiful and functional w
 - Advanced JavaScript concepts
 - Responsive design techniques
 - Web accessibility standards
+
+## 🌐 Websites:
+[![Teorzo](https://img.shields.io/badge/Teorzo-blue?style=for-the-badge
+)](https://www.teorzo.xyz)
   
-## 🌐 Socials:
+## ❤️ Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_shiva_es) 
 
 # 💻 Tech Stack:
